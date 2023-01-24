@@ -10,6 +10,6 @@
 <h3 align="left">Languages and Tools:</h3>  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,html,js,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,mysql,python" />
   </a>
 </p>
